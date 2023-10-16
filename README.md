@@ -11,7 +11,7 @@ All authorship is mentioned where possible.
 
 # 📊 Exercises
 ## Exercise 1
-The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Enviroment (`venv`)
+The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Environment (`venv`)
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_01.ipynb)
 
@@ -25,14 +25,14 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
 ## Exercise 3
-Goal of the excercise is to learn about more advanced vizualization techniques using Matplotlib and Seaborn libraries.
+Goal of the exercise is to learn about more advanced vizualization techniques using Matplotlib and Seaborn libraries.
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_03.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_03.ipynb)
 
 ## Exercise 4
-Goal of the excercise is to learn how to use K-means implementation in the Scikit-learn library to perform clustering and subsequent cluster analysis on a Titanic dataset.
+Goal of the exercise is to learn how to use K-means implementation in the Scikit-learn library to perform clustering and subsequent cluster analysis on a Titanic dataset.
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_04.ipynb)
 
@@ -46,7 +46,7 @@ We will learn how to use another clustering algorithm - Hierarchical (or Agglome
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_05.ipynb)
 
 # 💡 Notes
-## How to create a Python Virtual Enviroment named `venv`
+## How to create a Python Virtual Environment named `venv`
 ```
 python -m venv venv
 ```
@@ -65,7 +65,7 @@ source venv/bin/activate
 in Linux
 
 
-Intall python packages
+Install python packages
 
 ```
 pip install jupyter jupyterlab pandas matplotlib requests seaborn scipy scikit-learn
